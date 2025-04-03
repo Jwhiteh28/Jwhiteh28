@@ -1,4 +1,30 @@
-## Hi there 👋
+<h1>Hello There!, I'm Julius! <br/><a href="https://www.linkedin.com/in/juliuswhitehead/">I.T Professional</a></h1>
+
+<h2>👨‍💻 I.T Professional Projects:</h2>
+
+  - [Active Directory Home Lab]
+  - [Ticket System]
+    
+<h2>📺 Popular YouTube Videos</h2>
+
+- [Tutorial Active Directory]
+- [Tutorial Ticket System]
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JuliusWhitehead | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/juliuswhitehead
+
+<!--
+when your ready to update your channels add these
+[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[twitter]: https://twitter.com/joshmadakor
+[youtube]: https://www.youtube.com/c/joshmadakor
+[instagram]: https://www.instagram.com/joshmadakor/
+-->
 
 <!--
 **Jwhiteh28/Jwhiteh28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
