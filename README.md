@@ -4,7 +4,11 @@
 
   - [Active Directory Home Lab]
   - [Ticket System]
-    
+
+<h2>📄 Certifications</h2>
+  -<a href="https://www.linkedin.com/in/juliuswhitehead/overlay/1712152072854/single-media-viewer/?profileId=ACoAABLTBYkBxgdkVbPG1O49BN14w6suHHU6Bts">Google I.T Support Professional</a><br/>
+  -<a href="https://www.linkedin.com/in/juliuswhitehead/overlay/1635535271276/single-media-viewer/?profileId=ACoAABLTBYkBxgdkVbPG1O49BN14w6suHHU6Bts">Web Development Fundamentals Bootcamp</a>
+  
 <h2>📺 Popular YouTube Videos</h2>
 
 - [Tutorial Active Directory]
