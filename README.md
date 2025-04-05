@@ -1,4 +1,4 @@
-<h1>Hello There!, I'm Julius! <br/><a href="https://www.linkedin.com/in/juliuswhitehead/">I.T Professional</a></h1>
+<h1>Hello There, I'm Julius, an <br/><a href="https://www.linkedin.com/in/juliuswhitehead/">I.T Professional</a></h1>
 
 <h2>👨‍💻 I.T Professional Projects:</h2>
 
