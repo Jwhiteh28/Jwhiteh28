@@ -3,7 +3,7 @@
 <h2>👨‍💻 Information Technology Professional Projects:</h2>
 
   - osTicket (Help Desk Ticketing System)
-  - [Active Directory Home Lab]
+  - [Active Directory Home Lab](https://github.com/Jwhiteh28/ActiveDirectoryLab/blob/main/README.md)
 
 <h2>📄 Certifications</h2>
   -<a href="https://www.linkedin.com/in/juliuswhitehead/overlay/1712152072854/single-media-viewer/?profileId=ACoAABLTBYkBxgdkVbPG1O49BN14w6suHHU6Bts">Google I.T Support Professional</a><br/>
