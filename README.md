@@ -1,9 +1,9 @@
 <h1>Hello There, I'm Julius, an <br/><a href="https://www.linkedin.com/in/juliuswhitehead/">I.T Professional</a></h1>
 
-<h2>👨‍💻 I.T Professional Projects:</h2>
+<h2>👨‍💻 Information Technology Professional Projects:</h2>
 
+  - osTicket (Help Desk Ticketing System)
   - [Active Directory Home Lab]
-  - [Ticket System]
 
 <h2>📄 Certifications</h2>
   -<a href="https://www.linkedin.com/in/juliuswhitehead/overlay/1712152072854/single-media-viewer/?profileId=ACoAABLTBYkBxgdkVbPG1O49BN14w6suHHU6Bts">Google I.T Support Professional</a><br/>
