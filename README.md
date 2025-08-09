@@ -1,6 +1,6 @@
 <h1>Hello There, I'm Julius, an <br/><a href="https://www.linkedin.com/in/juliuswhitehead/">I.T Professional</a></h1>
 
-<h2>👨‍💻 Information Technology Professional Projects:</h2>
+<h2>My Information Technology Projects:</h2>
 
   - osTicket (Help Desk Ticketing System)
   - [Active Directory Home Lab](https://github.com/Jwhiteh28/ActiveDirectoryLab/blob/main/README.md)
