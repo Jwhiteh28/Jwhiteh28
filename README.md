@@ -2,14 +2,19 @@
 
 <h2>My Information Technology Projects:</h2>
 
-  - osTicket (Help Desk Ticketing System)
-  
-  - Oracle Virtual Box: Active Directory
-    <br/>[Active Directory Home Lab](https://github.com/Jwhiteh28/ActiveDirectoryLab/blob/main/README.md)
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Prerequisites and Installation](https://github.com/Jwhiteh28/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/Jwhiteh28/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/Jwhiteh28/ticket-lifecycle)
+- <b>Microsoft Azure</b>
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Jwhiteh28/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Jwhiteh28/azure-network-protocols)
+- <b>Oracle Virtual Box: Active Directory</b>
+  - [Active Directory Home Lab](https://github.com/Jwhiteh28/ActiveDirectoryLab/blob/main/README.md)
 
 <h2>📄 Certifications</h2>
-  -<a href="https://www.linkedin.com/in/juliuswhitehead/overlay/1712152072854/single-media-viewer/?profileId=ACoAABLTBYkBxgdkVbPG1O49BN14w6suHHU6Bts">Google I.T Support Professional</a><br/>
-  -<a href="https://www.linkedin.com/in/juliuswhitehead/overlay/1635535271276/single-media-viewer/?profileId=ACoAABLTBYkBxgdkVbPG1O49BN14w6suHHU6Bts">Web Development Fundamentals Bootcamp</a>
+  <a href="https://www.linkedin.com/in/juliuswhitehead/overlay/1712152072854/single-media-viewer/?profileId=ACoAABLTBYkBxgdkVbPG1O49BN14w6suHHU6Bts">Google I.T Support Professional</a><br/>
+  <a href="https://www.linkedin.com/in/juliuswhitehead/overlay/1635535271276/single-media-viewer/?profileId=ACoAABLTBYkBxgdkVbPG1O49BN14w6suHHU6Bts">Web Development Fundamentals Bootcamp</a>
   
 <h2>📺 Popular YouTube Videos</h2>
 
