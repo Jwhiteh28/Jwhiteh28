@@ -16,10 +16,6 @@
   <a href="https://www.linkedin.com/in/juliuswhitehead/overlay/1712152072854/single-media-viewer/?profileId=ACoAABLTBYkBxgdkVbPG1O49BN14w6suHHU6Bts">Google I.T Support Professional</a><br/>
   <a href="https://www.linkedin.com/in/juliuswhitehead/overlay/1635535271276/single-media-viewer/?profileId=ACoAABLTBYkBxgdkVbPG1O49BN14w6suHHU6Bts">Web Development Fundamentals Bootcamp</a>
   
-<h2>📺 Popular YouTube Videos</h2>
-
-- [Tutorial Ticket System]
-- [Tutorial Active Directory]
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JuliusWhitehead | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
