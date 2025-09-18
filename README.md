@@ -4,11 +4,11 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com//osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/Jwhiteh28/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/Jwhiteh28/ticket-lifecycle)
+  - [osTicket: Post-Installation Configuration](https://github.com//post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com//ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Jwhiteh28/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Jwhiteh28/azure-network-protocols)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com//configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com//azure-network-protocols)
 - <b>Oracle Virtual Box: Active Directory</b>
   - [Active Directory Home Lab](https://github.com/Jwhiteh28/ActiveDirectoryLab/blob/main/README.md)
 
