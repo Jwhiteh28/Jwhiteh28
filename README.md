@@ -2,13 +2,7 @@
 
 <h2>My Information Technology Projects:</h2>
 
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/Jwhiteh28/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/Jwhiteh28/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/Jwhiteh28/ticket-lifecycle)
-- <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Jwhiteh28/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Jwhiteh28/azure-network-protocols)
+
 - <b>Oracle Virtual Box: Active Directory</b>
   - [Active Directory Home Lab](https://github.com/Jwhiteh28/ActiveDirectoryLab/blob/main/README.md)
 
