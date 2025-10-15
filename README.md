@@ -9,7 +9,7 @@
 - <b>Microsoft Azure</b>
   - [Preparing Active Directory Infrastructure in Azure](https://github.com/Jwhiteh28/ad-setup)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Jwhiteh28/configure-ad)
-  - [Configuring GPO & Unlocking Users Accounts/Resetting Passwords](https://github.com/Jwhiteh28/azure-network-protocols)
+  - [Configuring GPO & Unlocking Users Accounts/Resetting Passwords](https://github.com/Jwhiteh28/config-gpo-pass-res)
 - <b>Oracle Virtual Box: Active Directory</b>
   - [Active Directory Home Lab](https://github.com/Jwhiteh28/ActiveDirectoryLab/blob/main/README.md)
 - <b>Network File shares and permissions</b>
