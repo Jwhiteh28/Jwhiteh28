@@ -14,6 +14,8 @@
   - [Active Directory Home Lab](https://github.com/Jwhiteh28/ActiveDirectoryLab/blob/main/README.md)
 - <b>Network File shares and permissions</b>
   - [Network File Shares and permissions Lab](https://github.com/Jwhiteh28/Network-file-shares-and-permissions)
+- <b>Virtual Private Network</b>
+  - [Analyzing VPN Setup and Usage within Azure VM](https://github.com/Jwhiteh28/)
 
 <h2>📄 Certifications</h2>
   <a href="https://www.linkedin.com/in/juliuswhitehead/overlay/1712152072854/single-media-viewer/?profileId=ACoAABLTBYkBxgdkVbPG1O49BN14w6suHHU6Bts">Google I.T Support Professional</a><br/>
