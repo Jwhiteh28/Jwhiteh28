@@ -17,6 +17,12 @@
 - <b>Virtual Private Network</b>
   - [Analyzing VPN Setup and Usage within Azure VM](https://github.com/Jwhiteh28/vpn-setup)
 
+<!--
+<h2>🌱 Technical Projects & Independent Learning:<h2>
+- <b>Robotics & Autonomous Systems Learning</b>
+- [ROS2 Humble Hawksbill Installation on Ubuntu 22.04 LTS](https://github.com/Jwhiteh28/)
+-->
+
 <h2>📄 Certifications</h2>
   <a href="https://www.linkedin.com/in/juliuswhitehead/overlay/1712152072854/single-media-viewer/?profileId=ACoAABLTBYkBxgdkVbPG1O49BN14w6suHHU6Bts">Google I.T Support Professional</a><br/>
   <a href="https://www.linkedin.com/in/juliuswhitehead/overlay/1635535271276/single-media-viewer/?profileId=ACoAABLTBYkBxgdkVbPG1O49BN14w6suHHU6Bts">Web Development Fundamentals Bootcamp</a>
