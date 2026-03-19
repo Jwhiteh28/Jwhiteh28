@@ -19,6 +19,8 @@
 
 <!--
 <h2>🌱 Technical Projects & Independent Learning:<h2>
+- <b>Linux-Base Home Server</b>
+- [Ubuntu Server: ](https://github.com/Jwhiteh28/)
 - <b>Robotics & Autonomous Systems Learning</b>
 - [ROS2 Humble Hawksbill Installation on Ubuntu 22.04 LTS](https://github.com/Jwhiteh28/)
 -->
