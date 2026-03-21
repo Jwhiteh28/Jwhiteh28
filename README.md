@@ -20,7 +20,7 @@
 <h2>🌱 Technical Projects & Independent Learning:</h2>
   
 - <b>Linux-Base Home Server</b>
-  - [Ubuntu Server: Home Server](https://github.com/Jwhiteh28/ubuntu-server)
+  - [Ubuntu Server: Headless Home Server](https://github.com/Jwhiteh28/ubuntu-server)
 
 <!--
 - <b>Robotics & Autonomous Systems Learning</b>
