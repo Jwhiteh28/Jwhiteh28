@@ -17,9 +17,11 @@
 - <b>Virtual Private Network</b>
   - [Analyzing VPN Setup and Usage within Azure VM](https://github.com/Jwhiteh28/vpn-setup)
 
-<h2>🌱 Technical Projects & Independent Learning:<h2>
+<h2>🌱 Technical Projects & Independent Learning:</h2>
+  
 - <b>Linux-Base Home Server</b>
-- [Ubuntu Server: ](https://github.com/Jwhiteh28/ubuntu-server)
+  - [Ubuntu Server: Home Server](https://github.com/Jwhiteh28/ubuntu-server)
+
 <!--
 - <b>Robotics & Autonomous Systems Learning</b>
 - [ROS2 Humble Hawksbill Installation on Ubuntu 22.04 LTS](https://github.com/Jwhiteh28/)
