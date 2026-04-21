@@ -28,7 +28,7 @@
 -->
 
 <h2>📄 Certifications</h2>
- <a href="https://www.linkedin.com/in/juliuswhitehead/overlay/1776782226119/single-media-viewer/?profileId=ACoAABLTBYkBxgdkVbPG1O49BN14w6suHHU6Bts">CourseCareers Information Technology</a><br/>
+ <a href="https://www.linkedin.com/in/juliuswhitehead/overlay/1776782996976/single-media-viewer/?profileId=ACoAABLTBYkBxgdkVbPG1O49BN14w6suHHU6Bts">CourseCareers Information Technology</a><br/>
   <a href="https://www.linkedin.com/in/juliuswhitehead/overlay/1712152072854/single-media-viewer/?profileId=ACoAABLTBYkBxgdkVbPG1O49BN14w6suHHU6Bts">Google I.T Support Professional</a><br/>
   <a href="https://www.linkedin.com/in/juliuswhitehead/overlay/1635535271276/single-media-viewer/?profileId=ACoAABLTBYkBxgdkVbPG1O49BN14w6suHHU6Bts">Web Development Fundamentals Bootcamp</a>
   
